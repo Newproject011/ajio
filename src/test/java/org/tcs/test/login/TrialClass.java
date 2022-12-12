@@ -16,6 +16,7 @@ public class TrialClass {
 		System.out.println("method4");
 
 	}
+<<<<<<< HEAD
 	private void keerthi() {
 		System.out.println("keerthi");
 
@@ -32,5 +33,19 @@ public class TrialClass {
 		System.out.println("vignesh");
 
 	}
+=======
+	private void tamil() {
+		System.out.println("tamil");
+
+	}
+	private void telugu() {
+		System.out.println("telugu");
+
+	}
+	private void malayalam() {
+		System.out.println("malayalam");
+	}
+	
+>>>>>>> 2f63f4433bf00a628da181a0af82ef375c1dbc7d
 
 }
