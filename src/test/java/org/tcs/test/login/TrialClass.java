@@ -16,5 +16,21 @@ public class TrialClass {
 		System.out.println("method4");
 
 	}
+	private void keerthi() {
+		System.out.println("keerthi");
+
+	}
+	private void ganesh() {
+		System.out.println("ganesh");
+
+	}
+	private void santhamani() {
+		System.out.println("santhamani");
+
+	}
+	private void vignesh() {
+		System.out.println("vignesh");
+
+	}
 
 }
