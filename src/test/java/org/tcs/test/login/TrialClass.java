@@ -16,5 +16,17 @@ public class TrialClass {
 		System.out.println("method4");
 
 	}
+	private void tamil() {
+		System.out.println("tamil");
+
+	}
+	private void telugu() {
+		System.out.println("telugu");
+
+	}
+	private void malayalam() {
+		System.out.println("malayalam");
+	}
+	
 
 }
